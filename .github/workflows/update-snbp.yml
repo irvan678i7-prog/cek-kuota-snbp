@@ -1,0 +1,40 @@
+name: Update SNBP official programmes
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 3 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: snbp-collector
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install playwright==1.56.0
+      - run: python -m playwright install --with-deps chromium
+      - name: Fetch official SNBP programmes
+        run: python scripts/collect_snbp.py
+      - name: Validate and commit only real records
+        run: |
+          python - <<'PY'
+          import json
+          db=json.load(open('data/snbp.json'))
+          assert isinstance(db['data'],list)
+          for x in db['data']:
+            assert x['ptn'] and x['prodi'] and x['tahun'] and isinstance(x['daya_tampung'],int)
+          print('Records:',len(db['data']))
+          PY
+          if ! git diff --quiet -- data/snbp.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/snbp.json
+            git commit -m "Update official SNBP programme dataset"
+            git push
+          fi
