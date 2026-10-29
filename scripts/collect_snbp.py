@@ -39,7 +39,7 @@ async def main():
             # Inspect all document elements for an institution code plus name;
             # click the smallest ancestor that responds as a card/button.
             targets=await page.evaluate("""() => {
-              const nodes=[...document.querySelectorAll('button,[role=button],li,article')];
+              const nodes=[...document.querySelectorAll('button,[role=button],li,article,div,a')];
               let found=[];
               for(let node of nodes) {
                 let t=(node.innerText||'').trim().replace(/\\s+/g,' ');
@@ -50,12 +50,15 @@ async def main():
             }""")
             print("Found PTNs:",len(targets))
             if not targets:
+                print("Page title:",await page.title())
+                print("Page URL:",page.url)
+                print("Body excerpt:",(await page.locator("body").inner_text())[:1400])
                 raise RuntimeError("No clickable PTN cards found; website selectors may have changed")
             for idx,target in enumerate(targets):
                 name,code=target["name"],target["code"]
                 try:
                     # Text-based locator, avoids dependency on CSS class names.
-                    candidates=page.locator("button,[role=button],li,article").filter(has_text=code)
+                    candidates=page.locator("button,[role=button],li,article,div,a").filter(has_text=code)
                     clicked=False
                     for j in range(min(await candidates.count(),12)):
                         loc=candidates.nth(j)
@@ -88,8 +91,7 @@ async def main():
              "scrape_summary":{"ptn_scanned":len(counts),"ptn_with_records":sum(bool(n) for _,n in counts),
                                "errors":errors[:12]}}
     if not any(n for _,n in counts):
-        print("No validated programs extracted; keeping existing data unmodified")
-        return
+        raise RuntimeError("No validated programs extracted. Database left unchanged. Inspect PTN selectors/API response.")
     OUT.write_text(json.dumps(updated,ensure_ascii=False,indent=2)+"\n")
     print("Programs in dataset:",len(data))
 if __name__=="__main__":asyncio.run(main())
