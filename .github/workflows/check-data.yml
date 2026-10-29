@@ -1,0 +1,21 @@
+name: Validate SNBP dataset
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2 * * *'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate published JSON
+        run: |
+          python - <<'PY'
+          import json
+          data=json.load(open('data/snbp.json',encoding='utf-8'))
+          assert isinstance(data.get('data'),list)
+          print('Dataset records:',len(data['data']))
+          if not data['data']: print('NOTICE: official dataset not yet populated')
+          PY
