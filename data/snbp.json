@@ -18840,10 +18840,136 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ADMINISTRASI KEUANGAN",
+      "kode_prodi": "13713065",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AGRIBISNIS",
+      "kode_prodi": "13711002",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AGRIBISNIS KAMPUS BONDOWOSO",
+      "kode_prodi": "13711076",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AGRONOMI",
+      "kode_prodi": "13711031",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AGROTEKNOLOGI / AGROEKOTEKNOLOGI",
+      "kode_prodi": "13711001",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "13711049",
+      "jenjang": "S1",
+      "daya_tampung": 61,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "13713068",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "AKUNTANSI KAMPUS BONDOWOSO",
+      "kode_prodi": "13711077",
+      "jenjang": "S1",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "BIOLOGI",
+      "kode_prodi": "13711012",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
       "prodi": "BISNIS DIGITAL",
       "kode_prodi": "13681001",
       "jenjang": "S1",
       "daya_tampung": 61,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "EKONOMI PEMBANGUNAN",
+      "kode_prodi": "13711047",
+      "jenjang": "S1",
+      "daya_tampung": 70,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "EKONOMI SYARIAH",
+      "kode_prodi": "13711061",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "EKONOMI SYARIAH KAMPUS BONDOWOSO",
+      "kode_prodi": "13711063",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "FARMASI",
+      "kode_prodi": "13711018",
+      "jenjang": "S1",
+      "daya_tampung": 57,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "FISIKA",
+      "kode_prodi": "13711010",
+      "jenjang": "S1",
+      "daya_tampung": 50,
       "peminat": null
     },
     {
@@ -18858,10 +18984,109 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "GIZI KAMPUS BONDOWOSO",
+      "kode_prodi": "13711038",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "HUBUNGAN INTERNASIONAL",
+      "kode_prodi": "13711042",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
       "prodi": "HUKUM BISNIS",
       "kode_prodi": "13681004",
       "jenjang": "S1",
       "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU ADMINISTRASI BISNIS",
+      "kode_prodi": "13711044",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU ADMINISTRASI NEGARA",
+      "kode_prodi": "13711043",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU HUKUM",
+      "kode_prodi": "13711041",
+      "jenjang": "S1",
+      "daya_tampung": 135,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU KEPERAWATAN",
+      "kode_prodi": "13711019",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU KEPERAWATAN KAMPUS LUMAJANG",
+      "kode_prodi": "13711079",
+      "jenjang": "S1",
+      "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU KESEJAHTERAAN SOSIAL",
+      "kode_prodi": "13711045",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU PERTANIAN KAMPUS BONDOWOSO",
+      "kode_prodi": "13711032",
+      "jenjang": "S1",
+      "daya_tampung": 45,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU SEJARAH",
+      "kode_prodi": "13711058",
+      "jenjang": "S1",
+      "daya_tampung": 45,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "ILMU TANAH",
+      "kode_prodi": "13711025",
+      "jenjang": "S1",
+      "daya_tampung": 30,
       "peminat": null
     },
     {
@@ -18876,6 +19101,285 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "INFORMATIKA",
+      "kode_prodi": "13711033",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "KEPERAWATAN (KAMPUS KOTA PASURUAN)",
+      "kode_prodi": "13713071",
+      "jenjang": "D3",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "KEPERAWATAN KAMPUS LUMAJANG",
+      "kode_prodi": "13713067",
+      "jenjang": "D3",
+      "daya_tampung": 65,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "KESEHATAN MASYARAKAT",
+      "kode_prodi": "13711014",
+      "jenjang": "S1",
+      "daya_tampung": 80,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "KESEKRETARIATAN",
+      "kode_prodi": "13713074",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "KIMIA",
+      "kode_prodi": "13711011",
+      "jenjang": "S1",
+      "daya_tampung": 46,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "MANAJEMEN",
+      "kode_prodi": "13711048",
+      "jenjang": "S1",
+      "daya_tampung": 85,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "MANAJEMEN PERUSAHAAN",
+      "kode_prodi": "13713073",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "MATEMATIKA",
+      "kode_prodi": "13711009",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PEND. GURU SEKOLAH DASAR KAMPUS BONDOWOSO",
+      "kode_prodi": "13711064",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN BAHASA INGGRIS",
+      "kode_prodi": "13711053",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN BHS. & SASTRA INDO.",
+      "kode_prodi": "13711054",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN BIOLOGI",
+      "kode_prodi": "13711005",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN DOKTER",
+      "kode_prodi": "13711013",
+      "jenjang": "S1",
+      "daya_tampung": 57,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN DOKTER GIGI",
+      "kode_prodi": "13711008",
+      "jenjang": "S1",
+      "daya_tampung": 57,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN EKONOMI",
+      "kode_prodi": "13711051",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN FISIKA",
+      "kode_prodi": "13711004",
+      "jenjang": "S1",
+      "daya_tampung": 64,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN GEOGRAFI",
+      "kode_prodi": "13711062",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN GURU SEKOLAH DASAR",
+      "kode_prodi": "13711055",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN IPA",
+      "kode_prodi": "13711028",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN LUAR SEKOLAH",
+      "kode_prodi": "13711050",
+      "jenjang": "S1",
+      "daya_tampung": 45,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN MATEMATIKA",
+      "kode_prodi": "13711003",
+      "jenjang": "S1",
+      "daya_tampung": 57,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN MATEMATIKA KAMPUS BONDOWOSO",
+      "kode_prodi": "13711078",
+      "jenjang": "S1",
+      "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENDIDIKAN SEJARAH",
+      "kode_prodi": "13711052",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PENYULUHAN PERTANIAN",
+      "kode_prodi": "13711034",
+      "jenjang": "S1",
+      "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PERENCANAAN WILAYAH DAN KOTA",
+      "kode_prodi": "13711029",
+      "jenjang": "S1",
+      "daya_tampung": 38,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PERPAJAKAN",
+      "kode_prodi": "13713069",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PETERNAKAN KAMPUS BONDOWOSO",
+      "kode_prodi": "13711037",
+      "jenjang": "S1",
+      "daya_tampung": 35,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PG PAUD",
+      "kode_prodi": "13711060",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "PROTEKSI TANAMAN",
+      "kode_prodi": "13711026",
+      "jenjang": "S1",
+      "daya_tampung": 35,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "REKAYASA PERANCANGAN MEKANIK",
+      "kode_prodi": "13712070",
+      "jenjang": "D4",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
       "prodi": "SAINS DATA",
       "kode_prodi": "13681002",
       "jenjang": "S1",
@@ -18885,10 +19389,190 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "SASTRA INDONESIA",
+      "kode_prodi": "13711057",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "SASTRA INGGRIS",
+      "kode_prodi": "13711056",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "SISTEM INFORMASI",
+      "kode_prodi": "13711020",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "SOSIOLOGI",
+      "kode_prodi": "13711046",
+      "jenjang": "S1",
+      "daya_tampung": 55,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK ELEKTRO",
+      "kode_prodi": "13711016",
+      "jenjang": "S1",
+      "daya_tampung": 44,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
       "prodi": "TEKNIK INDUSTRI",
       "kode_prodi": "13681005",
       "jenjang": "S1",
       "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK KIMIA",
+      "kode_prodi": "13711030",
+      "jenjang": "S1",
+      "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK KONSTRUKSI PERKAPALAN",
+      "kode_prodi": "13711036",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK LINGKUNGAN",
+      "kode_prodi": "13711035",
+      "jenjang": "S1",
+      "daya_tampung": 25,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK MESIN",
+      "kode_prodi": "13711015",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK PERMINYAKAN",
+      "kode_prodi": "13711040",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK PERTAMBANGAN",
+      "kode_prodi": "13711039",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK PERTANIAN",
+      "kode_prodi": "13711007",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNIK SIPIL",
+      "kode_prodi": "13711017",
+      "jenjang": "S1",
+      "daya_tampung": 52,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNOLOGI HASIL PERTANIAN",
+      "kode_prodi": "13711006",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNOLOGI INDUSTRI PERTANIAN",
+      "kode_prodi": "13711024",
+      "jenjang": "S1",
+      "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNOLOGI INFORMASI",
+      "kode_prodi": "13711027",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNOLOGI REKAYASA ELEKTRONIKA",
+      "kode_prodi": "13712072",
+      "jenjang": "D4",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG",
+      "kode_prodi": "13712066",
+      "jenjang": "D4",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "TELEVISI & FILM",
+      "kode_prodi": "13711059",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JEMBER",
+      "prodi": "USAHA PERJALANAN WISATA",
+      "kode_prodi": "13713075",
+      "jenjang": "D3",
+      "daya_tampung": 35,
       "peminat": null
     },
     {
@@ -42932,7 +43616,7 @@
     }
   ],
   "source": "https://www.snpmb.id/snbp/daya-tampung-snbp",
-  "updated_at": "2026-10-29T12:37:40.738133+00:00",
+  "updated_at": "2026-11-02T11:01:12.629371+00:00",
   "collection_method": "Automated browser reading official public SNPMB programme table",
   "scrape_summary": {
     "ptn_scanned": 146,
