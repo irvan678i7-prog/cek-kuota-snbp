@@ -19623,10 +19623,28 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "AGRIBISNIS",
+      "kode_prodi": "13421004",
+      "jenjang": "S1",
+      "daya_tampung": 68,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "AGROTEKNOLOGI",
       "kode_prodi": "13511016",
       "jenjang": "S1",
       "daya_tampung": 90,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "AGROTEKNOLOGI",
+      "kode_prodi": "13421003",
+      "jenjang": "S1",
+      "daya_tampung": 53,
       "peminat": null
     },
     {
@@ -19654,6 +19672,15 @@
       "kode_prodi": "13513048",
       "jenjang": "D3",
       "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "13421018",
+      "jenjang": "S1",
+      "daya_tampung": 110,
       "peminat": null
     },
     {
@@ -19740,6 +19767,24 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "EKONOMI PEMBANGUNAN",
+      "kode_prodi": "13421016",
+      "jenjang": "S1",
+      "daya_tampung": 107,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "EKONOMI SYARIAH",
+      "kode_prodi": "13421020",
+      "jenjang": "S1",
+      "daya_tampung": 81,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "FARMASI",
       "kode_prodi": "13511013",
       "jenjang": "S1",
@@ -19753,6 +19798,15 @@
       "kode_prodi": "13511004",
       "jenjang": "S1",
       "daya_tampung": 88,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "GIZI",
+      "kode_prodi": "13421010",
+      "jenjang": "S1",
+      "daya_tampung": 54,
       "peminat": null
     },
     {
@@ -19812,10 +19866,28 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "ILMU POLITIK",
+      "kode_prodi": "13421021",
+      "jenjang": "S1",
+      "daya_tampung": 75,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "INFORMATIKA",
       "kode_prodi": "13511020",
       "jenjang": "S1",
       "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "INFORMATIKA",
+      "kode_prodi": "13421007",
+      "jenjang": "S1",
+      "daya_tampung": 70,
       "peminat": null
     },
     {
@@ -19848,6 +19920,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "KESEHATAN MASYARAKAT",
+      "kode_prodi": "13421008",
+      "jenjang": "S1",
+      "daya_tampung": 66,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "KIMIA",
       "kode_prodi": "13511002",
       "jenjang": "S1",
@@ -19861,6 +19942,24 @@
       "kode_prodi": "13511028",
       "jenjang": "S1",
       "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "MANAJEMEN",
+      "kode_prodi": "13421017",
+      "jenjang": "S1",
+      "daya_tampung": 129,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "MANAJEMEN MUTU HALAL",
+      "kode_prodi": "13421026",
+      "jenjang": "S1",
+      "daya_tampung": 24,
       "peminat": null
     },
     {
@@ -19902,6 +20001,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN BAHASA INDONESIA",
+      "kode_prodi": "13421022",
+      "jenjang": "S1",
+      "daya_tampung": 59,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "PENDIDIKAN BAHASA INGGRIS",
       "kode_prodi": "13511039",
       "jenjang": "S1",
@@ -19911,10 +20019,28 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN BAHASA INGGRIS",
+      "kode_prodi": "13421023",
+      "jenjang": "S1",
+      "daya_tampung": 71,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "PENDIDIKAN BAHASA JEPANG",
       "kode_prodi": "13511055",
       "jenjang": "S1",
       "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN BIOLOGI",
+      "kode_prodi": "13421002",
+      "jenjang": "S1",
+      "daya_tampung": 58,
       "peminat": null
     },
     {
@@ -19938,10 +20064,91 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN EKONOMI",
+      "kode_prodi": "13421012",
+      "jenjang": "S1",
+      "daya_tampung": 58,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN FISIKA",
+      "kode_prodi": "13421009",
+      "jenjang": "S1",
+      "daya_tampung": 39,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN GEOGRAFI",
+      "kode_prodi": "13421013",
+      "jenjang": "S1",
+      "daya_tampung": 56,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "PENDIDIKAN JASMANI",
       "kode_prodi": "13511023",
       "jenjang": "S1",
       "daya_tampung": 66,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN JASMANI",
+      "kode_prodi": "13421015",
+      "jenjang": "S1",
+      "daya_tampung": 113,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN MASYARAKAT",
+      "kode_prodi": "13421011",
+      "jenjang": "S1",
+      "daya_tampung": 58,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN MATEMATIKA",
+      "kode_prodi": "13421001",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PENDIDIKAN SEJARAH",
+      "kode_prodi": "13421014",
+      "jenjang": "S1",
+      "daya_tampung": 69,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PERBANKAN DAN KEUANGAN",
+      "kode_prodi": "13423024",
+      "jenjang": "D3",
+      "daya_tampung": 80,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "PERBANKAN DAN KEUANGAN DIGITAL",
+      "kode_prodi": "13422028",
+      "jenjang": "D4",
+      "daya_tampung": 24,
       "peminat": null
     },
     {
@@ -19974,6 +20181,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "SAINS DATA",
+      "kode_prodi": "13421029",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "SASTRA INDONESIA",
       "kode_prodi": "13511033",
       "jenjang": "S1",
@@ -20001,6 +20217,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "SISTEM INFORMASI",
+      "kode_prodi": "13421025",
+      "jenjang": "S1",
+      "daya_tampung": 39,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "SOSIOLOGI",
       "kode_prodi": "13511026",
       "jenjang": "S1",
@@ -20023,6 +20248,15 @@
       "kode_prodi": "13511008",
       "jenjang": "S1",
       "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "TEKNIK ELEKTRO",
+      "kode_prodi": "13421006",
+      "jenjang": "S1",
+      "daya_tampung": 38,
       "peminat": null
     },
     {
@@ -20082,10 +20316,28 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "TEKNIK SIPIL",
+      "kode_prodi": "13421005",
+      "jenjang": "S1",
+      "daya_tampung": 52,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
       "prodi": "TEKNOLOGI PANGAN",
       "kode_prodi": "13511018",
       "jenjang": "S1",
       "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "prodi": "TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+      "kode_prodi": "13421027",
+      "jenjang": "S1",
+      "daya_tampung": 22,
       "peminat": null
     },
     {
@@ -21855,10 +22107,37 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AGRIBISNIS",
+      "kode_prodi": "11111008",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "AGROEKOTEKNOLOGI",
       "kode_prodi": "11121008",
       "jenjang": "S1",
       "daya_tampung": 158,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AGROTEKNOLOGI",
+      "kode_prodi": "11111007",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AGROTEKNOLOGI (PSDKU GAYO LUES)",
+      "kode_prodi": "11111034",
+      "jenjang": "S1",
+      "daya_tampung": 12,
       "peminat": null
     },
     {
@@ -21882,10 +22161,64 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "11111043",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "11113075",
+      "jenjang": "D3",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "AKUNTANSI PERPAJAKAN",
+      "kode_prodi": "11112065",
+      "jenjang": "D4",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "ANTROPOLOGI",
       "kode_prodi": "11121026",
       "jenjang": "S1",
       "daya_tampung": 50,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ARSITEKTUR",
+      "kode_prodi": "11111005",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "BIMBINGAN KONSELING",
+      "kode_prodi": "11111054",
+      "jenjang": "S1",
+      "daya_tampung": 45,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "BIOLOGI",
+      "kode_prodi": "11111022",
+      "jenjang": "S1",
+      "daya_tampung": 24,
       "peminat": null
     },
     {
@@ -21900,10 +22233,73 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "BISNIS DIGITAL",
+      "kode_prodi": "11111079",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "BUDIDAYA PERAIRAN",
+      "kode_prodi": "11111024",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "BUDIDAYA PETERNAKAN",
+      "kode_prodi": "11113068",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "EKONOMI ISLAM",
+      "kode_prodi": "11111062",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "EKONOMI PEMBANGUNAN",
+      "kode_prodi": "11111041",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "EKONOMI SYARIAH",
       "kode_prodi": "11121029",
       "jenjang": "S1",
       "daya_tampung": 110,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "FARMASI",
+      "kode_prodi": "11111027",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "FISIKA",
+      "kode_prodi": "11111020",
+      "jenjang": "S1",
+      "daya_tampung": 24,
       "peminat": null
     },
     {
@@ -21927,10 +22323,37 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU HUKUM",
+      "kode_prodi": "11111044",
+      "jenjang": "S1",
+      "daya_tampung": 168,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "ILMU KELAUTAN",
       "kode_prodi": "11121017",
       "jenjang": "S1",
       "daya_tampung": 58,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU KELAUTAN",
+      "kode_prodi": "11111023",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU KEPERAWATAN",
+      "kode_prodi": "11111017",
+      "jenjang": "S1",
+      "daya_tampung": 108,
       "peminat": null
     },
     {
@@ -21945,10 +22368,55 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU KOMUNIKASI",
+      "kode_prodi": "11111059",
+      "jenjang": "S1",
+      "daya_tampung": 54,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU PEMERINTAHAN",
+      "kode_prodi": "11111061",
+      "jenjang": "S1",
+      "daya_tampung": 54,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "ILMU POLITIK",
       "kode_prodi": "11121025",
       "jenjang": "S1",
       "daya_tampung": 100,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU POLITIK",
+      "kode_prodi": "11111057",
+      "jenjang": "S1",
+      "daya_tampung": 53,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "ILMU TANAH",
+      "kode_prodi": "11111032",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "INFORMATIKA",
+      "kode_prodi": "11111026",
+      "jenjang": "S1",
+      "daya_tampung": 36,
       "peminat": null
     },
     {
@@ -21963,10 +22431,46 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "KEHUTANAN",
+      "kode_prodi": "11111039",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "KEHUTANAN (PSDKU GAYO LUES)",
+      "kode_prodi": "11111036",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "KEPERAWATAN",
       "kode_prodi": "11123034",
       "jenjang": "D3",
       "daya_tampung": 58,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "KESEHATAN HEWAN",
+      "kode_prodi": "11113064",
+      "jenjang": "D3",
+      "daya_tampung": 9,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "KEUANGAN DAN PERBANKAN",
+      "kode_prodi": "11113076",
+      "jenjang": "D3",
+      "daya_tampung": 24,
       "peminat": null
     },
     {
@@ -21981,10 +22485,91 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "KIMIA",
+      "kode_prodi": "11111021",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "MANAJEMEN",
       "kode_prodi": "11121020",
       "jenjang": "S1",
       "daya_tampung": 208,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MANAJEMEN",
+      "kode_prodi": "11111042",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MANAJEMEN (PSDKU GAYO LUES)",
+      "kode_prodi": "11111063",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MANAJEMEN AGRIBISNIS",
+      "kode_prodi": "11113066",
+      "jenjang": "D3",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MANAJEMEN INFORMATIKA",
+      "kode_prodi": "11113077",
+      "jenjang": "D3",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MANAJEMEN PERUSAHAAN",
+      "kode_prodi": "11113073",
+      "jenjang": "D3",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "MATEMATIKA",
+      "kode_prodi": "11111019",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PEMANFAATAN SUMBERDAYA PERIKANAN",
+      "kode_prodi": "11111031",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PEND. JASMANI KESEHATAN DAN REKREASI",
+      "kode_prodi": "11111053",
+      "jenjang": "S1",
+      "daya_tampung": 60,
       "peminat": null
     },
     {
@@ -21999,10 +22584,118 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN BAHASA INDONESIA",
+      "kode_prodi": "11111049",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN BAHASA INGGRIS",
+      "kode_prodi": "11111050",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN BIOLOGI",
+      "kode_prodi": "11111012",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN BIOLOGI (PDSKU GAYO LUES)",
+      "kode_prodi": "11111035",
+      "jenjang": "S1",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN DOKTER",
+      "kode_prodi": "11111016",
+      "jenjang": "S1",
+      "daya_tampung": 75,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN DOKTER GIGI",
+      "kode_prodi": "11111018",
+      "jenjang": "S1",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN DOKTER HEWAN",
+      "kode_prodi": "11111001",
+      "jenjang": "S1",
+      "daya_tampung": 72,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN EKONOMI",
+      "kode_prodi": "11111047",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "PENDIDIKAN FISIKA",
       "kode_prodi": "11121012",
       "jenjang": "S1",
       "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN FISIKA",
+      "kode_prodi": "11111014",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN GEOGRAFI",
+      "kode_prodi": "11111048",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN GURU PAUD",
+      "kode_prodi": "11111060",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN GURU SEKOLAH DASAR",
+      "kode_prodi": "11111055",
+      "jenjang": "S1",
+      "daya_tampung": 69,
       "peminat": null
     },
     {
@@ -22017,6 +22710,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN KESEJAHTERAAN KELUARGA",
+      "kode_prodi": "11111052",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "PENDIDIKAN KIMIA",
       "kode_prodi": "11121013",
       "jenjang": "S1",
@@ -22026,10 +22728,55 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN KIMIA",
+      "kode_prodi": "11111015",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "PENDIDIKAN MATEMATIKA",
       "kode_prodi": "11121014",
       "jenjang": "S1",
       "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN MATEMATIKA",
+      "kode_prodi": "11111013",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "kode_prodi": "11111045",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN SEJARAH",
+      "kode_prodi": "11111046",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PENDIDIKAN SENI DRAMA TARI DAN MUSIK",
+      "kode_prodi": "11111051",
+      "jenjang": "S1",
+      "daya_tampung": 36,
       "peminat": null
     },
     {
@@ -22062,10 +22809,55 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PERENCANAAN WILAYAH DAN KOTA",
+      "kode_prodi": "11111038",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PETERNAKAN",
+      "kode_prodi": "11111009",
+      "jenjang": "S1",
+      "daya_tampung": 44,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PROTEKSI TANAMAN",
+      "kode_prodi": "11111037",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "PSIKOLOGI",
       "kode_prodi": "11121030",
       "jenjang": "S1",
       "daya_tampung": 90,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "PSIKOLOGI",
+      "kode_prodi": "11111056",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "SEKRETARI",
+      "kode_prodi": "11113072",
+      "jenjang": "D3",
+      "daya_tampung": 12,
       "peminat": null
     },
     {
@@ -22089,6 +22881,24 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "SOSIOLOGI",
+      "kode_prodi": "11111058",
+      "jenjang": "S1",
+      "daya_tampung": 41,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "STATISTIKA",
+      "kode_prodi": "11111030",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "TEKNIK ARSITEKTUR",
       "kode_prodi": "11121007",
       "jenjang": "S1",
@@ -22107,10 +22917,46 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK ELEKTRO",
+      "kode_prodi": "11111006",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK GEOFISIKA",
+      "kode_prodi": "11111028",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK GEOLOGI",
+      "kode_prodi": "11111033",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "TEKNIK INDUSTRI",
       "kode_prodi": "11121005",
       "jenjang": "S1",
       "daya_tampung": 125,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK INDUSTRI",
+      "kode_prodi": "11111025",
+      "jenjang": "S1",
+      "daya_tampung": 36,
       "peminat": null
     },
     {
@@ -22134,10 +22980,46 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK KIMIA",
+      "kode_prodi": "11111004",
+      "jenjang": "S1",
+      "daya_tampung": 54,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK KOMPUTER",
+      "kode_prodi": "11111040",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "TEKNIK LINGKUNGAN",
       "kode_prodi": "11121040",
       "jenjang": "S1",
       "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK LINGKUNGAN",
+      "kode_prodi": "11111082",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK LISTRIK",
+      "kode_prodi": "11113067",
+      "jenjang": "D3",
+      "daya_tampung": 12,
       "peminat": null
     },
     {
@@ -22170,10 +23052,100 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK MESIN",
+      "kode_prodi": "11111003",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK MESIN",
+      "kode_prodi": "11113069",
+      "jenjang": "D3",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK PERMINYAKAN",
+      "kode_prodi": "11111081",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK PERTAMBANGAN",
+      "kode_prodi": "11111029",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK PERTANIAN",
+      "kode_prodi": "11111011",
+      "jenjang": "S1",
+      "daya_tampung": 42,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
       "prodi": "TEKNIK SIPIL",
       "kode_prodi": "11121001",
       "jenjang": "S1",
       "daya_tampung": 165,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK SIPIL",
+      "kode_prodi": "11111002",
+      "jenjang": "S1",
+      "daya_tampung": 84,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK SIPIL",
+      "kode_prodi": "11113071",
+      "jenjang": "D3",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNIK SUMBER DAYA AIR",
+      "kode_prodi": "11111080",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNOLOGI INDUSTRI HASIL PERIKANAN",
+      "kode_prodi": "11111078",
+      "jenjang": "S1",
+      "daya_tampung": 15,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS MALIKUSSALEH",
+      "prodi": "TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+      "kode_prodi": "11111010",
+      "jenjang": "S1",
+      "daya_tampung": 48,
       "peminat": null
     },
     {
@@ -36471,10 +37443,37 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AGRIBISNIS",
+      "kode_prodi": "13531004",
+      "jenjang": "S1",
+      "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AGRIBISNIS",
+      "kode_prodi": "13533082",
+      "jenjang": "D3",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "AGROTEKNOLOGI",
       "kode_prodi": "13521001",
       "jenjang": "S1",
       "daya_tampung": 45,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AGROTEKNOLOGI / AGROEKOTEKNOLOGI",
+      "kode_prodi": "13531003",
+      "jenjang": "S1",
+      "daya_tampung": 36,
       "peminat": null
     },
     {
@@ -36507,10 +37506,154 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "13531041",
+      "jenjang": "S1",
+      "daya_tampung": 35,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AKUNTANSI",
+      "kode_prodi": "13533072",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "AKUNTANSI (KAMPUS KABUPATEN MADIUN)",
+      "kode_prodi": "13533103",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "AKUNTANSI PERPAJAKAN",
       "kode_prodi": "13522027",
       "jenjang": "D4",
       "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ARSITEKTUR",
+      "kode_prodi": "13531008",
+      "jenjang": "S1",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL",
+      "kode_prodi": "13532109",
+      "jenjang": "D4",
+      "daya_tampung": 14,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK",
+      "kode_prodi": "13531095",
+      "jenjang": "S1",
+      "daya_tampung": 23,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BAHASA MANDARIN UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL",
+      "kode_prodi": "13532107",
+      "jenjang": "D4",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BIMBINGAN DAN KONSELING",
+      "kode_prodi": "13531062",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BIOLOGI",
+      "kode_prodi": "13531015",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BISNIS DIGITAL",
+      "kode_prodi": "13531096",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "BUDI DAYA TERNAK",
+      "kode_prodi": "13533090",
+      "jenjang": "D3",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "DEMOGRAFI DAN PENCATATAN SIPIL",
+      "kode_prodi": "13532071",
+      "jenjang": "D4",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "DESAIN INTERIOR",
+      "kode_prodi": "13531048",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "DESAIN KOMUNIKASI VISUAL",
+      "kode_prodi": "13531049",
+      "jenjang": "S1",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "DESAIN MEDIA DIGITAL",
+      "kode_prodi": "13532111",
+      "jenjang": "D4",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "DESAIN MODE",
+      "kode_prodi": "13531046",
+      "jenjang": "S1",
+      "daya_tampung": 18,
       "peminat": null
     },
     {
@@ -36525,6 +37668,15 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "EKONOMI PEMBANGUNAN",
+      "kode_prodi": "13531039",
+      "jenjang": "S1",
+      "daya_tampung": 36,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "FARMASI",
       "kode_prodi": "13523028",
       "jenjang": "D3",
@@ -36534,10 +37686,46 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "FARMASI",
+      "kode_prodi": "13531027",
+      "jenjang": "S1",
+      "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "FARMASI",
+      "kode_prodi": "13533089",
+      "jenjang": "D3",
+      "daya_tampung": 17,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "FISIKA",
+      "kode_prodi": "13531013",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "GIZI",
       "kode_prodi": "13521026",
       "jenjang": "S1",
       "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "HUBUNGAN INTERNASIONAL",
+      "kode_prodi": "13531067",
+      "jenjang": "S1",
+      "daya_tampung": 18,
       "peminat": null
     },
     {
@@ -36561,10 +37749,154 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU ADMINISTRASI NEGARA",
+      "kode_prodi": "13531035",
+      "jenjang": "S1",
+      "daya_tampung": 29,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU ADMINISTRASI NEGARA (KAMPUS KABUPATEN KEBUMEN)",
+      "kode_prodi": "13531104",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+      "kode_prodi": "13531006",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU HUKUM",
+      "kode_prodi": "13531038",
+      "jenjang": "S1",
+      "daya_tampung": 120,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "ILMU KOMUNIKASI",
       "kode_prodi": "13521016",
       "jenjang": "S1",
       "daya_tampung": 46,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU KOMUNIKASI",
+      "kode_prodi": "13531036",
+      "jenjang": "S1",
+      "daya_tampung": 28,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU LINGKUNGAN",
+      "kode_prodi": "13531031",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU SEJARAH",
+      "kode_prodi": "13531042",
+      "jenjang": "S1",
+      "daya_tampung": 17,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "ILMU TANAH",
+      "kode_prodi": "13531025",
+      "jenjang": "S1",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "INFORMATIKA",
+      "kode_prodi": "13531017",
+      "jenjang": "S1",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "INFORMATIKA (KAMPUS KABUPATEN KEBUMEN)",
+      "kode_prodi": "13531105",
+      "jenjang": "S1",
+      "daya_tampung": 15,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KEBIDANAN",
+      "kode_prodi": "13531034",
+      "jenjang": "S1",
+      "daya_tampung": 14,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KEBIDANAN",
+      "kode_prodi": "13533073",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KEDOKTERAN",
+      "kode_prodi": "13531001",
+      "jenjang": "S1",
+      "daya_tampung": 48,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KEPERAWATAN ANESTESIOLOGI",
+      "kode_prodi": "13532098",
+      "jenjang": "D4",
+      "daya_tampung": 15,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KESELAMATAN DAN KESEHATAN KERJA",
+      "kode_prodi": "13532033",
+      "jenjang": "D4",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "KIMIA",
+      "kode_prodi": "13531014",
+      "jenjang": "S1",
+      "daya_tampung": 27,
       "peminat": null
     },
     {
@@ -36579,10 +37911,136 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MANAJEMEN",
+      "kode_prodi": "13531040",
+      "jenjang": "S1",
+      "daya_tampung": 40,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MANAJEMEN ADMINISTRASI",
+      "kode_prodi": "13533091",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MANAJEMEN BISNIS",
+      "kode_prodi": "13532110",
+      "jenjang": "D4",
+      "daya_tampung": 14,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MANAJEMEN KONSTRUKSI",
+      "kode_prodi": "13532108",
+      "jenjang": "D4",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MANAJEMEN PERDAGANGAN INTERNASIONAL",
+      "kode_prodi": "13532112",
+      "jenjang": "D4",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "MATEMATIKA",
+      "kode_prodi": "13531012",
+      "jenjang": "S1",
+      "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "PARIWISATA",
       "kode_prodi": "13521020",
       "jenjang": "S1",
       "daya_tampung": 35,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEMASARAN DIGITAL",
+      "kode_prodi": "13532100",
+      "jenjang": "D4",
+      "daya_tampung": 21,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEND. BAHASA, SASTRA INDONESIA & DAERAH",
+      "kode_prodi": "13531057",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEND. GURU PEND ANAK USIA DINI (PG-PAUD)",
+      "kode_prodi": "13531063",
+      "jenjang": "S1",
+      "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEND. GURU SEKOLAH DASAR (PGSD) KEBUMEN",
+      "kode_prodi": "13531066",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEND. GURU SEKOLAH DASAR (PGSD) SURAKARTA",
+      "kode_prodi": "13531061",
+      "jenjang": "S1",
+      "daya_tampung": 43,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PEND. PANCASILA & KEWARGANEGARAAN (PPKN)",
+      "kode_prodi": "13531052",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN ADMINISTRASI PERKANTORAN",
+      "kode_prodi": "13531069",
+      "jenjang": "S1",
+      "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN AKUNTANSI",
+      "kode_prodi": "13531068",
+      "jenjang": "S1",
+      "daya_tampung": 27,
       "peminat": null
     },
     {
@@ -36606,10 +38064,64 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN BAHASA INGGRIS",
+      "kode_prodi": "13531058",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN BAHASA JAWA",
+      "kode_prodi": "13531065",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "PENDIDIKAN BIOLOGI",
       "kode_prodi": "13521007",
       "jenjang": "S1",
       "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN BIOLOGI",
+      "kode_prodi": "13531020",
+      "jenjang": "S1",
+      "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN EKONOMI",
+      "kode_prodi": "13531070",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN FISIKA",
+      "kode_prodi": "13531018",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN GEOGRAFI",
+      "kode_prodi": "13531051",
+      "jenjang": "S1",
+      "daya_tampung": 27,
       "peminat": null
     },
     {
@@ -36624,10 +38136,163 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN IPA",
+      "kode_prodi": "13531030",
+      "jenjang": "S1",
+      "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN JASMANI, KESEHATAN & REKREASI",
+      "kode_prodi": "13531054",
+      "jenjang": "S1",
+      "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+      "kode_prodi": "13531055",
+      "jenjang": "S1",
+      "daya_tampung": 33,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN KIMIA",
+      "kode_prodi": "13531019",
+      "jenjang": "S1",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN LUAR BIASA (PENDIDIKAN KHUSUS)",
+      "kode_prodi": "13531053",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "PENDIDIKAN MATEMATIKA",
       "kode_prodi": "13521008",
       "jenjang": "S1",
       "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN MATEMATIKA",
+      "kode_prodi": "13531021",
+      "jenjang": "S1",
+      "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN SEJARAH",
+      "kode_prodi": "13531050",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN SENI RUPA",
+      "kode_prodi": "13531059",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN SOSIOLOGI ANTROPOLOGI",
+      "kode_prodi": "13531060",
+      "jenjang": "S1",
+      "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN TEKNIK BANGUNAN",
+      "kode_prodi": "13531023",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+      "kode_prodi": "13531024",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENDIDIKAN TEKNIK MESIN",
+      "kode_prodi": "13531022",
+      "jenjang": "S1",
+      "daya_tampung": 27,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENGELOLAAN HUTAN",
+      "kode_prodi": "13531032",
+      "jenjang": "S1",
+      "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PENYULUHAN DAN KOMUNIKASI PERTANIAN",
+      "kode_prodi": "13531026",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PERBANKAN DAN KEUANGAN DIGITAL",
+      "kode_prodi": "13532101",
+      "jenjang": "D4",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PERENCANAAN WILAYAH DAN KOTA (PWK)",
+      "kode_prodi": "13531016",
+      "jenjang": "S1",
+      "daya_tampung": 22,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PERPAJAKAN",
+      "kode_prodi": "13533078",
+      "jenjang": "D3",
+      "daya_tampung": 18,
       "peminat": null
     },
     {
@@ -36642,6 +38307,105 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PETERNAKAN",
+      "kode_prodi": "13531005",
+      "jenjang": "S1",
+      "daya_tampung": 75,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PROTEKSI TANAMAN",
+      "kode_prodi": "13531106",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "PSIKOLOGI",
+      "kode_prodi": "13531002",
+      "jenjang": "S1",
+      "daya_tampung": 60,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SAINS DATA",
+      "kode_prodi": "13531097",
+      "jenjang": "S1",
+      "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SASTRA ARAB",
+      "kode_prodi": "13531064",
+      "jenjang": "S1",
+      "daya_tampung": 17,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SASTRA DAERAH UNTUK SASTRA JAWA",
+      "kode_prodi": "13531045",
+      "jenjang": "S1",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SASTRA INDONESIA",
+      "kode_prodi": "13531043",
+      "jenjang": "S1",
+      "daya_tampung": 17,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SASTRA INGGRIS",
+      "kode_prodi": "13531044",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SENI RUPA",
+      "kode_prodi": "13531047",
+      "jenjang": "S1",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "SOSIOLOGI",
+      "kode_prodi": "13531037",
+      "jenjang": "S1",
+      "daya_tampung": 30,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "STATISTIKA",
+      "kode_prodi": "13531029",
+      "jenjang": "S1",
+      "daya_tampung": 22,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "TEKNIK ELEKTRO",
       "kode_prodi": "13521004",
       "jenjang": "S1",
@@ -36651,10 +38415,55 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK ELEKTRO",
+      "kode_prodi": "13531028",
+      "jenjang": "S1",
+      "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "TEKNIK INDUSTRI",
       "kode_prodi": "13521024",
       "jenjang": "S1",
       "daya_tampung": 16,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK INDUSTRI",
+      "kode_prodi": "13531009",
+      "jenjang": "S1",
+      "daya_tampung": 26,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK INFORMATIKA (KAMPUS KABUPATEN MADIUN)",
+      "kode_prodi": "13533102",
+      "jenjang": "D3",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK KIMIA",
+      "kode_prodi": "13531011",
+      "jenjang": "S1",
+      "daya_tampung": 24,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK KIMIA",
+      "kode_prodi": "13533083",
+      "jenjang": "D3",
+      "daya_tampung": 10,
       "peminat": null
     },
     {
@@ -36678,10 +38487,28 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK MESIN",
+      "kode_prodi": "13531010",
+      "jenjang": "S1",
+      "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "TEKNIK SIPIL",
       "kode_prodi": "13521002",
       "jenjang": "S1",
       "daya_tampung": 32,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNIK SIPIL",
+      "kode_prodi": "13531007",
+      "jenjang": "S1",
+      "daya_tampung": 36,
       "peminat": null
     },
     {
@@ -36705,10 +38532,37 @@
     {
       "tahun": 2026,
       "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNOLOGI PENDIDIKAN",
+      "kode_prodi": "13531094",
+      "jenjang": "S1",
+      "daya_tampung": 20,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "TEKNOLOGI REKAYASA MANUFAKTUR",
+      "kode_prodi": "13532099",
+      "jenjang": "D4",
+      "daya_tampung": 18,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
       "prodi": "TEKNOLOGI REKAYASA PERANCANGAN MANUFAKTUR",
       "kode_prodi": "13522019",
       "jenjang": "D4",
       "daya_tampung": 12,
+      "peminat": null
+    },
+    {
+      "tahun": 2026,
+      "ptn": "UNIVERSITAS SEBELAS MARET",
+      "prodi": "USAHA PERJALANAN WISATA",
+      "kode_prodi": "13533081",
+      "jenjang": "D3",
+      "daya_tampung": 18,
       "peminat": null
     },
     {
@@ -43616,7 +45470,7 @@
     }
   ],
   "source": "https://www.snpmb.id/snbp/daya-tampung-snbp",
-  "updated_at": "2026-11-09T11:29:00.109623+00:00",
+  "updated_at": "2026-11-16T11:13:55.575205+00:00",
   "collection_method": "Automated browser reading official public SNPMB programme table",
   "scrape_summary": {
     "ptn_scanned": 146,
